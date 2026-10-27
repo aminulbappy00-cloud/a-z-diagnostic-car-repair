@@ -1,4 +1,5 @@
 /* Small, dependency-free interactions for the A-Z website concept. */
+/* The reviews section links to the business Google Maps listing for current/original reviews. */
 document.addEventListener("DOMContentLoaded", () => {
   const menuToggle = document.querySelector(".menu-toggle");
   const nav = document.querySelector("#primary-nav");
